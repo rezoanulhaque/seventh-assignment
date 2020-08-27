@@ -1,0 +1,14 @@
+.cart h2{
+    color: blue;
+    font-weight: 650;
+}
+.cart h5{
+    color: blue;
+}
+.cart h4{
+    color: red;
+    font-weight: 800;
+}
+.cart{
+    padding-top: 15px;
+}

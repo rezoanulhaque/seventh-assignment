@@ -1,0 +1,10 @@
+.course-area{
+    display: flex;
+}
+.course-data{
+    width: 70%;
+    margin-left: 5%;
+}
+.cart-area h2{
+    text-align: center;
+}
